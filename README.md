@@ -6,6 +6,9 @@ In this repository we list all the different github repositories and other (usef
 
 # Data Visiualization
 
+## Python
+- Tool to display confusion matrix in a more user friendly way thant the scikit-learn one. https://github.com/wcipriano/pretty-print-confusion-matrix
+
 # Machine Learning
 
 # Deep Learning
