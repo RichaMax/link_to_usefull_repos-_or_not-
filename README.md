@@ -14,13 +14,14 @@ In this repository we list all the different github repositories and other (usef
 # Deep Learning
 
 # Terminal
-https://github.com/alacritty/alacritty
-https://github.com/fish-shell/fish-shell
-https://github.com/oh-my-fish/oh-my-fish
-https://github.com/nvbn/thefuck
-https://github.com/jesseduffield/lazygit
+ - https://github.com/alacritty/alacritty
+ - https://github.com/fish-shell/fish-shell
+ - https://github.com/oh-my-fish/oh-my-fish
+ - https://github.com/nvbn/thefuck
+ - https://github.com/jesseduffield/lazygit
 
-# Vital tools
-https://github.com/mtoyoda/sl
-https://github.com/piuccio/cowsay
-https://github.com/busyloop/lolcat
+
+# Vital tools
+ - https://github.com/mtoyoda/sl
+ - https://github.com/piuccio/cowsay
+ - https://github.com/busyloop/lolcat
