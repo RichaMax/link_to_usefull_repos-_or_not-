@@ -13,6 +13,9 @@ In this repository we list all the different github repositories and other (usef
 
 # Deep Learning
 
+ - https://huggingface.co/transformers/index.html
+ - https://github.com/UKPLab/sentence-transformers
+
 # Terminal
  - https://github.com/alacritty/alacritty
  - https://github.com/fish-shell/fish-shell
