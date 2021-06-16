@@ -18,7 +18,7 @@ In this repository we list all the different github repositories and other (usef
  - https://github.com/fish-shell/fish-shell
  - https://github.com/oh-my-fish/oh-my-fish
  - https://github.com/nvbn/thefuck
- - https://github.com/jesseduffield/lazygit
+ - https://github.com/jesseduffield/lazygit or https://github.com/Extrawurst/gitui
 
 
 # Vital tools
