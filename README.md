@@ -28,3 +28,7 @@ In this repository we list all the different github repositories and other (usef
  - https://github.com/mtoyoda/sl
  - https://github.com/piuccio/cowsay
  - https://github.com/busyloop/lolcat
+
+# OSINT
+- https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607
+- https://github.com/soxoj/maigret
